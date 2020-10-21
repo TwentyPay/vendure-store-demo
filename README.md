@@ -9,7 +9,7 @@ This project was generated with [`@vendure/create`](https://github.com/vendure-e
 
 ## Development
 
-After cloning from Twentypay, first run `yarn` inside the directory. The config has been changed to run this admin backend on [http://localhost:3200/admin](port 3200).
+After cloning from Twentypay, first run `yarn` inside the directory. The config has been changed to run this admin backend on [port 3200](http://localhost:3200/admin).
 
 
 ```
